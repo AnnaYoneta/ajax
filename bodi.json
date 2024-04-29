@@ -1,0 +1,24 @@
+{
+  "toko": {
+    "nama": "petualangan seru",
+    "pengarang": "Joko Susilo",
+    "alamat": "Jl. Buku Jaya No. 123, Kota Bahagia"
+  },
+  "koleksi_buku": [
+    {
+      "judul": "Pohon Cerita",
+      "pengarang": "Buku Jaya",
+      "tahun_terbit":2016
+    },
+    {
+        "judul": "Petualangan Seru",
+        "penerbit": "Buku Makmur",
+        "tahun_terbit": 2020
+    },
+    {
+        "judul": "Misteri Malam",
+        "penerbit": "Penerbit Sukses",
+        "tahun_terbit": 2021
+}
+]
+}
